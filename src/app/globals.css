@@ -19,3 +19,72 @@
 .text-color {
   color: rgb(11, 4, 114);
 }
+
+.header {
+  background-color: rgb(11, 4, 114);
+  padding: 15px;
+  font-size: 20px;
+  font-weight: bold;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  /* cursor: pointer; */
+  color: white;
+}
+
+.header-elements {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+li {
+  &:hover {
+    opacity: 90%;
+  }
+}
+
+.main-footer {
+  background-color: rgb(11, 4, 114);
+  padding: 15px;
+  display: flex;
+  font-size: 15px;
+  color: white;
+  text-align: left;
+  bottom: 0;
+  width: 100%;
+  left: 0;
+  /* bottom: 0; */
+  position: absolute;
+}
+
+.main-footer-head {
+  font-weight: bold;
+  margin-bottom: 25px;
+  text-transform: uppercase;
+}
+
+.main-footer-elements-2 {
+  margin-left: 10%;
+}
+
+.main-footer-elements-3 {
+  margin-left: 10%;
+}
+
+.main-footer-elements-4 {
+  margin-left: 50%;
+}
+
+.text-center {
+  text-align: center;
+  margin-top: 100px;
+  margin-left: 45%;
+  position: absolute;
+  font-weight: bold; 
+}
+
+.mypic {
+  width: 400px;
+  height: auto;
+  border-radius: 10%;
+  margin-bottom: -150px;
+}
