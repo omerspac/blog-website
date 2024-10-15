@@ -1,0 +1,38 @@
+/* import styles from './responsive.module.css';
+
+@media (max-width: 1200px) {
+    .card1 {
+      width: 300px;
+    }
+  }
+  
+  @media (max-width: 992px) {
+    .cards-main {
+      justify-content: space-around;
+    }
+  }
+  
+  @media (max-width: 768px) {
+    .cards-main {
+      flex-direction: column;
+      align-items: center;
+    }
+  
+    .card1 {
+      width: 90%;
+    }
+  
+    .main-text {
+      font-size: 32px;
+    }
+  }
+  
+  @media (max-width: 576px) {
+    .main-text {
+      font-size: 28px;
+    }
+  
+    .read-more {
+      font-size: 10px;
+    }
+  } */
