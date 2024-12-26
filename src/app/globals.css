@@ -17,21 +17,6 @@
 	        animation: fade-in-top 0.6s cubic-bezier(0.390, 0.575, 0.565, 1.000) both;
 }
 
-.header {
-  background-color: #000;
-  padding: 15px;
-  font-size: 20px;
-  font-weight: bold;
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
-  color: white;
-}
-
-.header-elements {
-  display: flex;
-  justify-content: center;
-  gap: 20px;
-}
-
 body {
   font-family: Arial, Helvetica, sans-serif;
 }
@@ -217,69 +202,6 @@ li {
   color: #f5ab35;
   text-align: center; 
   margin-top: 10px;
-}
-
-.contact-container {
-  max-width: 500px;
-  margin: 0 auto;
-  padding: 20px;
-  background: #ffffff;
-  border-radius: 8px;
-  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
-}
-
-.contact-form {
-  max-width: 500px;
-  margin: 0 auto;
-  padding: 20px;
-  background: #ffffff;
-  border-radius: 8px;
-  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
-  margin-top: 20px;
-}
-
-.form-label {
-  display: block;
-  margin-bottom: 5px;
-  font-weight: bold;
-  color: #333;
-}
-
-.form-input,
-.form-textarea {
-  width: 100%;
-  padding: 10px;
-  margin-bottom: 15px;
-  border: 2px solid #ddd;
-  border-radius: 4px;
-  font-size: 16px;
-  transition: border-color 0.3s ease;
-}
-
-.form-input:focus,
-.form-textarea:focus {
-  border-color: #f5ab35;
-  outline: none;
-}
-
-.form-button {
-  width: 100%;
-  padding: 10px;
-  background-color: #f5ab35;
-  border: none;
-  border-radius: 4px;
-  color: white;
-  font-size: 16px;
-  cursor: pointer;
-  transition: background-color 0.3s ease;
-}
-
-.form-button:hover {
-  opacity: 80%;
-}
-
-.form-button:active {
-  background-color: #f5ab35;
 }
 
 .footer {
