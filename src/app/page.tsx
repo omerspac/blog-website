@@ -3,7 +3,7 @@ import egyptBlog from "@/app/images/egyptBlog.jpg"
 import machupicchuBlog from "@/app/images/machupicchuBlog.jpg"
 import japanBlog from "@/app/images/japanBlog.jpg"
 import oahuhawaiBlog from "@/app/images/oahuhawaiBlog.jpg"
-import tikaltempleBlog from "@/app/images/tikaltempleblog.jpg"
+import tikaltempleBlog from "@/app/images/tikaltempleBlog.jpg"
 import baganmyanmarBlog from "@/app/images/baganmyanmarBlog.jpg"
 import Link from "next/link";
 
