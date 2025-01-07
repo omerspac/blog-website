@@ -330,6 +330,43 @@ li {
   align-items: left;
 }
 
+/* COMMENT SECTION CODE */
+.comment-form-section {
+  width: 1180px;
+  /* background-color: red; */
+}
+
+/* RESPONSIVE CODE */
+@media only screen and (max-width: 1024px) {
+  .comment-form-section {
+    width: 1000px;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  .comment-form-section {
+    width: 750px;
+  }
+}
+
+@media only screen and (max-width: 425px) {
+  .comment-form-section {
+    width: 400px;
+  }
+}
+
+@media only screen and (max-width: 375px) {
+  .comment-form-section {
+    width: 352px;
+  }
+}
+
+@media only screen and (max-width: 320px) {
+  .comment-form-section {
+    width: 300px;
+  }
+}
+
 @media only screen and (min-width: 1025px) and (max-width: 1440px) {
   .card1 {
     width: 300px !important;
@@ -409,3 +446,4 @@ li {
     margin-left: 6px;
   }
 }
+
