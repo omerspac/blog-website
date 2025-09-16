@@ -1,2 +1,2 @@
-# My Profile
-Welcome to my profile!
+# Blog Website
+Welcome to my blog website!
